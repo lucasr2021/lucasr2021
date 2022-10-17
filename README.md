@@ -9,7 +9,6 @@
 
 <div> 
 
- 
-  ![Snake animation](https://github.com/lucasr2021/lucasr2021//blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lucasr2021/lucasr2021//blob/output/github-contribution-grid-snake.svg)
  
 </div>
